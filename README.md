@@ -47,4 +47,4 @@ Mínims:
 - 🎮 [Descarrega el joc per a Windows](https://drive.google.com/drive/folders/12ykgeY8vGASNuFBWFPAfUy9Nw0Ndf1bo?usp=drive_link)
 - 🐧 [Descarrega el joc per a Linux](https://drive.google.com/drive/folders/1c0Vo9AgEqSWBlBjgU1u1boGb3TIce7b7?usp=sharing)
 - 📄 [Documentació completa GDD (Google Docs)](https://docs.google.com/document/d/1TZ40GXxVcy6N95w12e1jXDuz_qjncxz3WWVd0VdZblA/edit?usp=sharing)
-- 💻 [Codi complet del joc]()
+- 💻 [Codi complet del joc](https://drive.google.com/drive/folders/1v0vE4AP8o8rLsq3z83XBwJrQD-1wiqnG?usp=drive_link)
